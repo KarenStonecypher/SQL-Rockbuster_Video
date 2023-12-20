@@ -5,9 +5,13 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores worldw
 ## Key Questions
 
 * Which movies contributed the most/least to revenue gain?
+
 ● What was the average rental duration for all videos?
+
 ● Which countries are Rockbuster customers based in?
+
 ● Where are customers with a high lifetime value based?
+
 ● Do sales figures vary between geographic regions?
 
 ## Data
@@ -17,4 +21,4 @@ movies in stock, actors, movie languages, and rentals.
 
 ## Visualizations
 
-The visualizations for the project were created in Tableau Public. The visuals can be found here: [Rockbuster Visuals] (https://public.tableau.com/views/3_10RockbusterVisualizations/Top_99Movies?:language=en-US&:display_count=n&:origin=viz_share_link)
+The visualizations for the project were created in Tableau Public. The visuals can be found here: [Rockbuster Visuals](https://public.tableau.com/views/3_10RockbusterVisualizations/Top_99Movies?:language=en-US&:display_count=n&:origin=viz_share_link)
