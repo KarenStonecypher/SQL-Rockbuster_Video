@@ -16,7 +16,7 @@ Rockbuster Stealth LLC is a movie rental company that formerly had stores worldw
 
 ## Data
 
-Rockbuster provided the data set in the project brief and the data was analyzed using a relational database management system and PostgreSQL. The data set includes information on customers, staff, store locations, 
+Rockbuster provided the data set in the project brief, and the data was analyzed using a relational database management system and PostgreSQL. The data set includes information on customers, staff, store locations, 
 movies in stock, actors, movie languages, and rentals. 
 
 ## Visualizations
