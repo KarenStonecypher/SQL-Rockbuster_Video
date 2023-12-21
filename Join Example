@@ -1,4 +1,4 @@
-This SQL query locates the top 5 customers in any of the top 10 cities who’ve paid the highest total amounts to Rockbuster Video.
+# This SQL query locates the top 5 customers in any of the top 10 cities who’ve paid the highest total amounts to Rockbuster Video.
 
 SELECT B.customer_id,
        B.first_name, 
