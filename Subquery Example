@@ -22,7 +22,7 @@ FROM customer A
                       'Kurashiki', 'Pingxian', 'Sivas', 'Celaya', 'So Leopoldo')
        GROUP BY B.customer_id,
                 B.first_name,
-                C.city,
+                D.city,
                 E.country
        ORDER BY total_amount_paid DESC
        LIMIT 5) AS top_5_customers
